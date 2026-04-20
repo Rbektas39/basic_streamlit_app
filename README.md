@@ -24,7 +24,7 @@ This app allows users to filter and explore penguin data dynamically, demonstrat
 
 ## 🚀 Live Application
 
-[Open App](PASTE-YOUR-STREAMLIT-LINK-HERE)
+[[Open App]([PASTE-YOUR-STREAMLIT-LINK-HERE](https://bektas---data---science---portfolio-gd7lnuxmylcf6mqvzs9ds5.streamlit.app/))
 
 ---
 
